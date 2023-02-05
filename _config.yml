@@ -9,7 +9,7 @@ name: Pagodaimedia CDN
 description: CDN Untuk Pagodaimedia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.pagodaimedia.my.id/main/android-icon-192x192.png
+avatar: https://cdn.pagodaimedia.my.id/favicon/android-icon-192x192.png
 
 #
 # Flags below are optional
