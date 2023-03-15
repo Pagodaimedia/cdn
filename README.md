@@ -1,5 +1,5 @@
 # Pagodaimedia CDN
 
-**Pagodaimedia CDN** Adalah Situs Libary CDN yang Dimiliki Oleh Pagodaimedia
+**Pagodaimedia CDN** Is a CDN Library Site Owned by Pagodaimedia.
 
-**Pagodaimedia CDN** Dapat Diakses Dengan Mudah Dengan Mengunjungi <https://cdn.pagodaimedia.my.id> Atau <https://www.pagodaimedia.my.id/master/>
+**Pagodaimedia CDN** Can Be Accessed Easily By Visiting <https://cdn.pagodaimedia.my.id> or <https://assets.pagodaimedia.my.id>
