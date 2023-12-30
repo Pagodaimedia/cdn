@@ -1,5 +1,5 @@
 # Pagodaimedia CDN
 
-**Pagodaimedia CDN** Is a CDN Library Site Owned by Pagodaimedia.
+**Pagodaimedia CDN** is a storage place for asset and also storage for resource for our Sites.
 
-**Pagodaimedia CDN** Can Be Accessed Easily By Visiting <https://cdn.pagodaimedia.my.id> or <https://assets.pagodaimedia.my.id>
+**Pagodaimedia CDN** Can Be Accessed Easily By Visiting <https://cdn.pagodaimedia.my.id>.
