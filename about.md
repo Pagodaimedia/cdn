@@ -4,12 +4,8 @@ title: Tentang
 permalink: /about/
 ---
 
-Pagodaimedia CDN Adalah Layanan CDN Untuk Pagodaimedia dan Orang orang Dari Seluruh Dunia.
+Pagodaimedia CDN Adalah Tempat Penyimpanan Aset dan juga tempat Resource Untuk Situs Kami.
 
-### Informasi Menarik
+### Hubungi Kami
 
-Gambar-Gambar dan Beberapa CDN yang ada Di Situs Pagodaimedia Berasal dari Sini.
-
-### Hubungi Saya
-
-[info@pagodaimedia.my.id](mailto:info@pagodaimedia.my.id)
+Hubungi Kami Di Email ini: [support@pagodaimedia.my.id](mailto:support@pagodaimedia.my.id)
