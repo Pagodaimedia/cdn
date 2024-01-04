@@ -6,6 +6,10 @@ permalink: /about/
 
 Pagodaimedia CDN Adalah Tempat Penyimpanan Aset dan juga tempat Resource Untuk Situs Kami.
 
+### Kunjungi Blog Kami
+
+Kunjungi Blog kami Disini: <https://www.pagodaimedia.my.id>
+
 ### Hubungi Kami
 
-Hubungi Kami Di Email ini: [support@pagodaimedia.my.id](mailto:support@pagodaimedia.my.id)
+Hubungi Kami Pada Halaman ini: <https://www.pagodaimedia.my.id/p/contact-us.html>
