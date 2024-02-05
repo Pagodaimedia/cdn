@@ -3,3 +3,4 @@ document.onkeyup = function(keybrdshrct) {
   if (e.ctrlKey && e.altKey && e.which == 70) {
     feelingLucky();
   }
+}
