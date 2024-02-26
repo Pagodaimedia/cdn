@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contoh Penggunaan Flexbox - Pagodaimedia</title>
+    <style>
+body{
+  background:#fdfcff;
+}
+.container{
+  border:3px solid #ffa900;
+  padding:15px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+</style>
+  </head>
+  <body id="body">
+  <div class="container">
+   <p>Aku berada Ditengah Kotak ini.</p>
+  </div>
+<script>
+if(window.location.href.indexOf('?theme=dark') > -1)
+{
+document.querySelector('#body').style.background = "#1e1e1e";
+}
+</script>
+  </body>
+</html>
