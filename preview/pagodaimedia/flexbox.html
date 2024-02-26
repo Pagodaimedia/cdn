@@ -19,13 +19,13 @@ body{
   </head>
   <body id="body">
   <div class="container">
-   <p>Aku berada Ditengah Kotak ini.</p>
+   <p id="par">Aku berada Ditengah Kotak ini.</p>
   </div>
 <script>
 if(window.location.href.indexOf('?theme=dark') > -1)
 {
 document.querySelector('#body').style.background = "#1e1e1e";
-document.querySelectorAll('p').style.color = "#fff";
+document.querySelector('#par').style.color = "#fff";
 }
 </script>
   </body>
